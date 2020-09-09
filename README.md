@@ -3,7 +3,7 @@
 In this repo you will find sample packages and starting projects that you can use as a starting point for your assignments.
 
 ### Unity overview, and intro composition in 3D
-1. [Assignment 01](https://github.com/VRclass/fall-2020/assignments/edit/master/Assignment_01)
+1. [Assignment 01](https://github.com/VRclass/fall-2020/tree/master/Assignment_01)
 
 
 ### Generating a diorama
